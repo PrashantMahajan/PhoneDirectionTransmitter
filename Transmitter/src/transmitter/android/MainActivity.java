@@ -1,4 +1,4 @@
-package wifitransmitter.android;
+package transmitter.android;
 
 import android.app.ActionBar;
 import android.app.FragmentTransaction;
